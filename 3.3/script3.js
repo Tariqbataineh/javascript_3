@@ -2,7 +2,6 @@ const name = document.getElementById("name");
 const order = document.getElementById("order");
 const button = document.getElementById("btn");
 
-const inputs = document.getElementsByTagName("input");
 const result = document.getElementsByClassName("result");
 const title = document.querySelector("h1");
 
